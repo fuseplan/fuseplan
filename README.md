@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fuseplan aka Apoorv Sharma
-- 👀 I’m interested in Video Games and Gym and very rarely developing websites👀
-- 🌱 I’m currently learning FullStack Application Development and DSA 🥲
--  💞️ I’m looking to collaborate on React.js websites,Portfolio and Competive Programming. 
+- 👀 I’m interested in Video Games and Gym and very rarely develop websites👀
+- 🌱 I’m currently creating a functional FullStack Application 
+- 💞️ I’m looking to collaborate on React.js websites, Portfolio and Competitive Programming. 
 - 📫 How to reach me ap8rvsharma@gmail.com
 
 <!---
